@@ -29,8 +29,8 @@ Removed duplicates and standardized fields for clean analysis.
 
 Rapid Miner Methodologies:
 
-Used 'Change Role' to assign Basket_ID as ID and keep categories as attributes.
-Applied K-Means algorithm for customer and basket segmentation.
-Used Clustering operator to generate cluster assignments and centroids.
-Visualized cluster patterns using Horizontal BarChart
+Used 'Change Role' to assign Basket_ID as ID and keep categories as attributes.
+Applied K-Means algorithm for customer and basket segmentation.
+Used Clustering operator to generate cluster assignments and centroids.
+Visualized cluster patterns using Horizontal BarChart
 Ensured accurate clustering by selecting only relevant product-category variables.
